@@ -9,7 +9,7 @@ import scala.Tuple2;
 // <b>
 public class Main {
     public static void main(String[] args) {
-        SparkConf sparkConfig = new SparkConf().setAppName("Total vente par ville").setMaster("local[*]");
+        SparkConf sparkConfig = new SparkConf().setAppName("Total vente par ville");
         JavaSparkContext sprkCtx = new JavaSparkContext(sparkConfig);
 
         //chargement des lignes de ce fichier texte dans un RDD
