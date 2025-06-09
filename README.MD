@@ -25,7 +25,7 @@ dont vous trouverai des informations générales sur votre cluster
 <p>4 - Déploiment de l'application sur ce cluster spark</p>
 <img src="./imgs/7.png" alt="déploiment" />
 <br />
-<p>5 - A ce state toutes les taches (transformations et action) ont terminé leurs execution, et notre application "Total vente par ville" a était créée</p>
+<p>5 - A ce stade toutes les taches (transformations et action) ont terminé leurs execution, et notre application "Total vente par ville" a était créée</p>
 <img src="./imgs/8.png" alt="déploiment" />
 
 
